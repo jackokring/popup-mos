@@ -1,0 +1,3 @@
+[submodule "agon-forth"]
+	path = agon-forth
+	url = git@github.com:jackokring/agon-forth.git
